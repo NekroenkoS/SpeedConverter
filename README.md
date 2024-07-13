@@ -1,4 +1,5 @@
 Java 17 Masterclass: Start Coding in 2024
+
 2nd exercise
 
 1. Write a method called toMilesPerHour that has 1 parameter of type double with the name kilometersPerHour. This method needs to return the rounded value of the calculation of type long.
